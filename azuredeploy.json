@@ -742,7 +742,7 @@
                             "protocol": "TCP",
                             "sourcePortRange": "*",
                             "destinationPortRange": "5986",
-                            "sourceAddressPrefix": "10.227.0.32/27",
+                            "sourceAddressPrefix": "[parameters('Workloadsubnet2prefix')]",
                             "destinationAddressPrefix": "*",
                             "access": "Allow",
                             "priority": 110,
