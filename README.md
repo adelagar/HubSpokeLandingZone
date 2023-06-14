@@ -2,7 +2,7 @@
 
 ## Welcome to the Azure Hub and Spoke Virtual Network project.
 
-### This project will help you create a secure and scalable network architecture for your Azure workloads. You can use this project for both development and production environments.
+### This project will help you create a secure and scalable network architecture for your Azure workloads. You can use this project for both development and production environments. this solution supports both Azure Commercial as well as Azure Government.
 
 ### The project consists of the following components:
 
@@ -19,6 +19,16 @@
 ### To use this project, you need to have an Azure subscription. You can connect this environment with an on-premises network with a VPN device or an ExpressRoute circuit. You also need to have some basic knowledge of Azure networking concepts and services.
 
 ### To get started, follow these steps:
+
+
+#### Deploy in Azure Commercial please click on the button below
+
+
+
+
+####  Deploy in Azure Commercial please click on the button below  
+
+
 
 
 
