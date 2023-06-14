@@ -21,16 +21,11 @@
 ### To get started, follow these steps:
 
 
-#### Deploy in Azure Commercial please click here:
+#### Deploy in Azure Commercial please click here: [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2FHubSpokeLandingZone%2Fmain%2Fazuredeploy.json) 
 
 
 
-
-
-
-####  Deploy in Azure Government please click here:   
-
-
+####  Deploy in Azure Government please click here: [![Deploy to Azure](https://aka.ms/deploytoazuregovbutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2FHubSpokeLandingZone%2Fmain%2Fazuredeploy.json)   
 
 
 
