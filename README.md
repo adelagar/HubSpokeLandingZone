@@ -21,12 +21,14 @@
 ### To get started, follow these steps:
 
 
-#### Deploy in Azure Commercial please click on the button below
+#### Deploy in Azure Commercial please click here:
 
 
 
 
-####  Deploy in Azure Commercial please click on the button below  
+
+
+####  Deploy in Azure Government please click here:   
 
 
 
