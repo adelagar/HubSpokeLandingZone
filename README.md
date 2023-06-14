@@ -29,4 +29,4 @@
 
 
 
-### We hope you enjoy using this project and find it useful for your Azure networking workload needs. Feel free to use and update it as this is being released to the general ITPro community "as is" with no guarantees. If you have any feedback or questions, please let us know on GitHub. Thank you! 
+### We hope you enjoy using this project and find it useful for your Azure networking and workload needs. Feel free to use and update it as this is being released to the general ITPro community "as is" with no guarantees. If you have any feedback or questions, please let us know on GitHub. Thank you! 
