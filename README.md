@@ -10,7 +10,7 @@
  
 - Spoke virtual networks that isolate and manage your workloads separately in each spoke. You can later add multiple spokes in different subscriptions and environments.
 
-- Virtual network peering or VPN connections that enable traffic flow between the hub and the spokes, and between the spokes and your on-premises network.
+- Virtual network peering connections that enable traffic flow between the hub and the spokes, and between the spokes and your on-premises network.
 
 - Network security groups and route tables that define the network access policies and routing rules for your network resources.
 
