@@ -4,7 +4,7 @@
 
 ### This project will help you create a secure and scalable network architecture for your Azure workloads. You can use this project for both development and production environments. this solution supports both Azure Commercial as well as Azure Government.
 
-### The project consists of the following components:
+#### The project consists of the following components:
 
  - A hub virtual network that acts as a central point of connectivity to your on-premises network and hosts shared Azure services such as Azure Firewall, Azure Bastion, Azure Backup Vault, and Azure Log Analytics Workspace.
  
@@ -16,9 +16,9 @@
 
 - Classification tags for both billing as well as defined security zone.
 
-### To use this project, you need to have an Azure subscription. You can connect this environment with an on-premises network with a VPN device or an ExpressRoute circuit. You also need to have some basic knowledge of Azure networking concepts and services.
+#### To use this project, you need to have an Azure subscription. You can connect this environment with an on-premises network with a VPN device or an ExpressRoute circuit. You also need to have some basic knowledge of Azure networking concepts and services.
 
-### To get started, follow these steps:
+#### To get started, follow these steps:
 
 
 #### Deploy in Azure Commercial please click here: [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2FHubSpokeLandingZone%2Fmain%2Fazuredeploy.json) 
@@ -29,4 +29,4 @@
 
 
 
-### We hope you enjoy using this project and find it useful for your Azure networking and workload needs. Feel free to use and update it as this is being released to the general ITPro community "as is" with no guarantees. If you have any feedback or questions, please let us know on GitHub. Thank you! 
+#### We hope you enjoy using this project and find it useful for your Azure networking and workload needs. Feel free to use and update it as this is being released to the general ITPro community "as is" with no guarantees. If you have any feedback or questions, please let us know on GitHub. Thank you! 
